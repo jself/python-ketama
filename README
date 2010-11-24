@@ -1,0 +1,9 @@
+THIS PROJECT IS A WORK IN PROGRESS
+It currently doesn't seem to be generating hashes correctly.
+
+To build (requires cython)
+python setup.py build_ext --inplace
+
+>>> from ketama import ketama_hash
+>>> print ketama_hash("test")
+3074250272L
