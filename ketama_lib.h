@@ -1,3 +1,4 @@
+/* Changes by Jeremy Self, original copyright below */
 /* LibMemcached
  * Copyright (C) 2006-2010 Brian Aker
  * All rights reserved.
